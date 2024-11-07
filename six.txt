@@ -1,3 +1,4 @@
 first line to six.txt for master
 second line to testgit
 third line
+forth line
