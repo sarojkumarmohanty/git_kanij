@@ -1,3 +1,0 @@
-first file
-second line to one.txt
-third linefor branch test
